@@ -1,3 +1,21 @@
+# CMake / 构建
+build/
+out/
+cmake-build-*/
+CMakeCache.txt
+CMakeFiles/
+Makefile
+cmake_install.cmake
+compile_commands.json
+*.cbp
+*.workspace
+
+# IDE
+.vscode/ipch/
+.idea/
+*.swp
+*.swo
+
 # Prerequisites
 *.d
 
